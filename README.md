@@ -1,4 +1,9 @@
-# Hi there 👋
+### Hi there 👋
+
+
+### Hello, All! I am an aspiring data scientist and cyber security professional. My goal in life is to help Humanity transition into an inspiring & sustainable future in any way possible.
+
+
 
 <!--
 **arob191/arob191** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
