@@ -1,4 +1,5 @@
 <h1>Hi, I'm Austin! <br/><a href="https://www.linkedin.com/in/austin-rule-robertson/">Cybersecurity Professional</a>
+<h3> I am an aspiring data scientist and cyber security professional. My goal in life is to help Humanity transition into an inspiring & sustainable future in any way possible..</h3>
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Home Lab</b>
