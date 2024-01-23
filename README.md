@@ -1,8 +1,24 @@
-### Hi there 👋
+<h1>Hi, I'm Austin! <br/><a href="https://www.linkedin.com/in/austin-rule-robertson/">Cybersecurity Professional</a>
+<h2>👨‍💻 Cyber Security Projects:</h2>
 
+- <b>Home Lab</b>
+  - [My Home Lab](https://)
+- <b>Splunk Server Installation</b>
+  - [My Splunk Server Setup](https://) <b>
+- <b>Blumira SIEM Integration</b>
+  - [Blumira integration process](https://)
+- <b>Python</b>
+  - [Placeholder](https://)
 
-### Hello, All! I am an aspiring data scientist and cyber security professional. My goal in life is to help Humanity transition into an inspiring & sustainable future in any way possible.
+<h2> 🤳 Connect with me:</h2>
 
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][gitlab]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[gitlab]: https://gitlab.com/arob1
+[instagram]: https://www.instagram.com/iamaustin.robertson/
+[linkedin]: https://www.linkedin.com/in/austin-rule-robertson/
 
 
 <!--
