@@ -3,13 +3,13 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Home Lab</b>
-  - [My Home Lab](https://)
+  - [My Home Lab](https://github.com/arob191/Home-Lab)
 - <b>Splunk Server Installation</b>
-  - [My Splunk Server Setup](https://) <b>
+  - [My Splunk Server Setup](https://github.com/arob191/Splunk-Project) <b>
 - <b>Blumira SIEM Integration</b>
-  - [Blumira integration process](https://)
-- <b>Python</b>
-  - [Placeholder](https://)
+  - [Blumira integration process](https://github.com/arob191/Blumira-Project)
+- <b>Python Projects</b>
+  - [Placeholder](https://github.com/arob191/PythonProjects)
 
 <h2> 🤳 Connect with me:</h2>
 
