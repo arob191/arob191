@@ -9,7 +9,7 @@
 - <b>Blumira SIEM Integration</b>
   - [Blumira integration process](https://github.com/arob191/Blumira-Project)
 - <b>Python Projects</b>
-  - [Placeholder](https://github.com/arob191/PythonProjects)
+  - [Python Projects](https://github.com/arob191/PythonProjects)
 
 <h2> 🤳 Connect with me:</h2>
 
