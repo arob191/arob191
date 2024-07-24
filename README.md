@@ -2,21 +2,16 @@
 <h3> I am an aspiring data scientist and cyber security professional. My goal in life is to help Humanity transition into an inspiring & sustainable future in any way possible..</h3>
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b>Home Lab</b> [My Home Lab](https://github.com/arob191/Home-Lab)
-- <b>Splunk Server Installation</b>
-  - [My Splunk Server Setup](https://github.com/arob191/Splunk-Project) <b>
-- <b>Blumira SIEM Integration</b>
-  - [Blumira integration process](https://github.com/arob191/Blumira-Project)
-- <b>Python Projects</b>
-  - [Python Projects](https://github.com/arob191/PythonProjects)
+- [My Home Lab](https://github.com/arob191/Home-Lab)
+- [My Splunk Server Setup](https://github.com/arob191/Splunk-Project) <b>
+- [Blumira integration process](https://github.com/arob191/Blumira-Project)
+- [Python Projects](https://github.com/arob191/PythonProjects)
+- [Java Projects](https://github.com/arob191/JavaProjects)
+<h2> Connect with me:</h2>
 
-<h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][gitlab]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[gitlab]: https://gitlab.com/arob1
-[linkedin]: https://www.linkedin.com/in/austin-rule-robertson/
+[gitlab](https://gitlab.com/arob1)
+[linkedin](https://www.linkedin.com/in/austin-rule-robertson/)
 
 
 <!--
