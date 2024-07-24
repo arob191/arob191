@@ -7,6 +7,7 @@
 - [Blumira integration process](https://github.com/arob191/Blumira-Project)
 - [Python Projects](https://github.com/arob191/PythonProjects)
 - [Java Projects](https://github.com/arob191/JavaProjects)
+- [Hack The Box Projects](https://github.com/arob191/HTB)
 <h2> Connect with me:</h2>
 
 
