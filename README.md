@@ -2,8 +2,7 @@
 <h3> I am an aspiring data scientist and cyber security professional. My goal in life is to help Humanity transition into an inspiring & sustainable future in any way possible..</h3>
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b>Home Lab</b>
-  - [My Home Lab](https://github.com/arob191/Home-Lab)
+- <b>Home Lab</b> [My Home Lab](https://github.com/arob191/Home-Lab)
 - <b>Splunk Server Installation</b>
   - [My Splunk Server Setup](https://github.com/arob191/Splunk-Project) <b>
 - <b>Blumira SIEM Integration</b>
